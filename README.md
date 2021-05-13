@@ -1,15 +1,9 @@
 # Next.js Progressbar
 
-A simple Next.js progressbar component using [NProgress](http://ricostacruz.com/nprogress/).
-
-> [I've created this Blog to help you create your own progressbar](https://gosink.in/next-js-make-your-own-progress-bar-indicator-component-easily/)
-
-**Demo**: [https://demo-nextjs-progressbar.vercel.app](https://demo-nextjs-progressbar.vercel.app/)
-
 ## How to install?
 
 ```
-npm i nextjs-progressbar
+npm i nextjs-progressbar-withdelay
 ```
 
 ## How to use?
@@ -17,7 +11,7 @@ npm i nextjs-progressbar
 After installing the package, import this in your `pages/_app.js` file.
 
 ```
-import NextNprogress from 'nextjs-progressbar';
+import NextNprogress from 'nextjs-progressbar-withdelay';
 ```
 
 And for rendering add `<NextNProgress />` inside `Container` component.
