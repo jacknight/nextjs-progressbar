@@ -1,6 +1,6 @@
 {
-  "name": "nextjs-progressbar",
-  "version": "0.0.9",
+  "name": "nextjs-progressbar-withdelay",
+  "version": "0.0.11",
   "description": "Nprogress component for Next.js app.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apal21/nextjs-progressbar.git"
+    "url": "git+https://github.com/jacknight/nextjs-progressbar.git"
   },
   "keywords": [
     "Nprogress",
@@ -18,12 +18,12 @@
     "Next.js",
     "Progressbar"
   ],
-  "author": "Apal Shah",
+  "author": "Jack Knight",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apal21/nextjs-progressbar/issues"
+    "url": "https://github.com/jacknight/nextjs-progressbar/issues"
   },
-  "homepage": "https://github.com/apal21/nextjs-progressbar#readme",
+  "homepage": "https://github.com/jacknight/nextjs-progressbar#readme",
   "dependencies": {
     "nprogress": "^0.2.0"
   },
